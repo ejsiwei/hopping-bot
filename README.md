@@ -3,9 +3,10 @@ This script automates the process of opening boxes and claiming rewards in the H
 
 **Instructions:**
 
-Copy the provided code (will be available in the comments section below this post).
-Paste the code into the browser console (F12 -> Console).
-In a new line, type "a(1000)" to execute the script.
+1) Copy the provided code (will be available in the comments section below this post).
+2) Paste the code into the browser console (F12 -> Console).
+3) In a new line, type "a(1000)" to execute the script.
+
 That's it! The software will automatically open boxes and claim rewards for you. The script is set to run at a moderate speed to avoid any suspicion of cheating and potential bans. You can keep the tab open or minimize the page while the script does the work for you. Feel free to watch YouTube videos or engage in other activities!
 
 **Note:**
